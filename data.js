@@ -1,5 +1,10 @@
-{
-  "projects": [
+/**
+ * @Author: Ali
+ * @Date:   2020-02-11T11:46:49+01:00
+ * @Last modified by:   Ali
+ * @Last modified time: 2020-03-22T10:25:08+01:00
+ */
+export const projects = [
   {
     id: 0,
     title: "Quiz App",
@@ -113,5 +118,4 @@
       "https://raw.githubusercontent.com/ali1129js/assets/master/rpsupdated.jpg",
     tags: "react.js"
   }
-]
-}
+];
