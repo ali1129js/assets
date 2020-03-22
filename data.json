@@ -1,5 +1,5 @@
 {
-  "projects": [
+  "projects": "[
     {
       "id": 0,
       "title": "Quiz App",
@@ -108,5 +108,5 @@
       "thumb": "https://raw.githubusercontent.com/ali1129js/assets/master/rpsupdated.jpg",
       "tags": "react.js"
     }
-  ]
+  ]"
 }
