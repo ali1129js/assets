@@ -14,7 +14,7 @@
       "title": "Lyrics Finder",
       "description": "Search for a song lyrics using a free API",
       "demoLink": "https://ali1129js.github.io/lyricsfinder-app/",
-      "srcCode": "https://github.com/ali1129js/lyricsfinder-app",
+      "srcCode": "https://github.com/ali1129js/lyricsfinder-app/tree/master",
       "thumb": "https://raw.githubusercontent.com/ali1129js/assets/master/sl.jpg",
       "tags": "boostrap , Context-API, axios, react-router"
     },
@@ -23,7 +23,7 @@
       "title": "Movies Page",
       "description": "Call themoviedb's API with react hooks",
       "demoLink": "https://ali1129js.github.io/movieSearch-app/",
-      "srcCode": "https://github.com/ali1129js/movieSearch-app",
+      "srcCode": "https://github.com/ali1129js/movieSearch-app/tree/master",
       "thumb": "https://raw.githubusercontent.com/ali1129js/assets/master/movies.jpg",
       "tags": "react-hooks , fetch-API , styled-components"
     },
@@ -32,7 +32,7 @@
       "title": "Github Finder",
       "description": "Use github's API to search for a user",
       "demoLink": "https://ali1129js.github.io/github-finder/",
-      "srcCode": "https://github.com/ali1129js/github-finder",
+      "srcCode": "https://github.com/ali1129js/github-finder/tree/master",
       "thumb": "https://raw.githubusercontent.com/ali1129js/assets/master/gf.jpg",
       "tags": "Context-API , axios , react-router"
     },
@@ -41,7 +41,7 @@
       "title": "Speed Typing",
       "description": "Beat the timer by typing a word",
       "demoLink": "https://ali1129js.github.io/speedtyping-app/",
-      "srcCode": "https://github.com/ali1129js/speedtyping-app",
+      "srcCode": "https://github.com/ali1129js/speedtyping-app/tree/master",
       "thumb": "https://raw.githubusercontent.com/ali1129js/assets/master/st.jpg",
       "tags": "boostrap , react.js"
     },
@@ -50,7 +50,7 @@
       "title": "News App",
       "description": "Read the news from different sources",
       "demoLink": "https://ali1129js.github.io/news-app/",
-      "srcCode": "https://github.com/ali1129js/news-app",
+      "srcCode": "https://github.com/ali1129js/news-app/tree/master",
       "thumb": "https://raw.githubusercontent.com/ali1129js/assets/master/news.jpg",
       "tags": "boostrap , react-router"
     },
@@ -59,7 +59,7 @@
       "title": "Quotinizer",
       "description": "Generate a random quote and tweet it",
       "demoLink": "https://ali1129js.github.io/quotemachine/",
-      "srcCode": "https://github.com/ali1129js/quotemachine",
+      "srcCode": "https://github.com/ali1129js/quotemachine/tree/master",
       "thumb": "https://raw.githubusercontent.com/ali1129js/assets/master/quotes.jpg",
       "tags": "boostrap , react-router"
     },
@@ -68,7 +68,7 @@
       "title": "Game of Life",
       "description": "Conway's Game of Life with react.js",
       "demoLink": "https://ali1129js.github.io/gameoflifereact/",
-      "srcCode": "https://github.com/ali1129js/gameoflifereact",
+      "srcCode": "https://github.com/ali1129js/gameoflife",
       "thumb": "https://raw.githubusercontent.com/ali1129js/assets/master/gameoflifereact.jpg",
       "tags": "react.js"
     },
@@ -77,7 +77,7 @@
       "title": "ToDo App",
       "description": "The famous CRUD example ",
       "demoLink": "https://ali1129js.github.io/updated-todo/",
-      "srcCode": "https://github.com/ali1129js/updated-todo",
+      "srcCode": "https://github.com/ali1129js/updated-todo/tree/master",
       "thumb": "https://raw.githubusercontent.com/ali1129js/assets/master/todo.jpg",
       "tags": "react.js , localstorage"
     },
