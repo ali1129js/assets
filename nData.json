@@ -47,12 +47,12 @@
     },
     {
       "id": 5,
-      "title": "News App",
-      "description": "Read the news from different sources",
-      "demoLink": "https://ali1129js.github.io/news-app/",
-      "srcCode": "https://github.com/ali1129js/news-app/tree/master",
-      "thumb": "https://raw.githubusercontent.com/ali1129js/assets/master/news.jpg",
-      "tags": "boostrap , react-router"
+      "title": "Issue Tracker",
+      "description": "Track issues with React",
+      "demoLink": "https://ali1129js.github.io/issuetracker-app/",
+      "srcCode": "https://github.com/ali1129js/issuetracker-app/tree/master",
+      "thumb": "https://raw.githubusercontent.com/ali1129js/issuetracker-app/master/SS.png",
+      "tags": "boostrap , react.js"
     },
     {
       "id": 6,
