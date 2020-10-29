@@ -1,0 +1,28 @@
+{
+  "applicants": [
+    {
+      "id": 1,
+      "fname": "First",
+      "lname": "Last",
+      "phone": "",
+      "email": "",
+      "status": ""
+    },
+    {
+      "id": 2,
+      "fname": "First",
+      "lname": "Last",
+      "phone": "",
+      "email": "",
+      "status": ""
+    },
+    {
+      "id": 3,
+      "fname": "First",
+      "lname": "Last",
+      "phone": "",
+      "email": "",
+      "status": ""
+    }
+  ]
+}
